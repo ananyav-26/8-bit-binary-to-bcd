@@ -22,5 +22,5 @@ Input: binary_input = "00111111" (63)
 Output: bcd_output = "000010011" → 0x063 (BCD)
 
 ## Outputs
-- RTL Schematic:
-- Output Waveform:
+- RTL Schematic: https://github.com/ananyav-26/8-bit-binary-to-bcd/blob/main/images/binary8bcd_rtl.png
+- Output Waveform: https://github.com/ananyav-26/8-bit-binary-to-bcd/blob/main/images/binary8bcd_waveform.png
